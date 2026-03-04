@@ -120,7 +120,7 @@ The `greedy_get_top_paths_normalized` function adds a novelty penalty to encoura
 
 ### Attention Matrix from SSM
 
-The SSM's recurrence is unrolled into an explicit `(B, ED, L, L)` attention matrix, enabling token-to-token attribution analogous to transformer attention.
+Following [Ali et al., 2024](https://arxiv.org/abs/2403.01590) the SSM's recurrence is unrolled into an explicit `(B, ED, L, L)` attention matrix, enabling token-to-token attribution analogous to transformer attention.
 
 ---
 
