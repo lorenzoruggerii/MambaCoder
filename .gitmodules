@@ -1,0 +1,3 @@
+[submodule "src/mamba_py"]
+	path = src/mamba_py
+	url = https://github.com/alxndrTL/mamba.py.git
