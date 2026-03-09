@@ -1,6 +1,6 @@
 # MambaInterp 🐍🔬
 
-> Transposing Transcoders on Mamba SSM.
+> Transposing Transcoders on Mamba SSM. You can read more [here](https://lorenzoruggerii.github.io/blog/2026/mambacoder/).
 
 ---
 
